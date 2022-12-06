@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manaishmihra27apr
+- 👋 Hi, I’m @manishmishra27apr
 - 👀 I’m interested in ... any Job for Data Analyst cum Devleopr(Oracle Forms & Reports). 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...Plsql queries
